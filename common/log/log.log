@@ -1,0 +1,5 @@
+INFO 2020-09-02 21:27:49 11036 main.py:16 main {'name': 'clent', 'ver': '0.001'}
+INFO 2020-09-02 21:27:49 11036 main.py:17 main {'img_path': 'C:/Users/Xu Bai/OneDrive/图片/images', 'save_path': '../common/test_img/res', 'labels': 'car,non-motor_vehicle'}
+INFO 2020-09-02 21:29:22 11036 main.py:34 <module> exited.
+INFO 2020-09-02 21:30:46 10692 main.py:16 main {'name': 'clent', 'ver': '0.001'}
+INFO 2020-09-02 21:30:46 10692 main.py:17 main {'img_path': 'C:/Users/Xu Bai/OneDrive/图片/images', 'save_path': '../common/test_img/res', 'labels': 'car,non-motor_vehicle'}

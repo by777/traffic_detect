@@ -1,0 +1,9 @@
+non-motor_vehicle 1612 300 1790 524
+non-motor_vehicle 271 757 439 987
+non-motor_vehicle 571 392 812 562
+non-motor_vehicle 1055 233 1252 384
+non-motor_vehicle 1279 370 1466 503
+non-motor_vehicle 1471 276 1614 430
+car 1690 184 1966 343
+car 1114 162 1468 284
+car 633 206 928 327
